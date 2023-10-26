@@ -40,6 +40,8 @@ CURRENT PROJECTS:
   
 OLD (FINISHED) PROJECTS:
   - MOOCS / Coursera / etc classes:
+  -   🐍 I have lots of finished python code from various projects over the years which are stored on github
+  -   🛠️https://github.com/jenkki-mies/jenkki-mies
     - 🤖 Machine Learning Introduction: Octave/MATLAB (Andrew Ng at Stanford) ✔️
     - 🤖 Machine Learning Specialization: python / jupyter (Andrew Ng at Stanford) ✔️
     - ⭐astronomy at Caltech TODO: complete Caltech AY1 Coursera class
