@@ -44,11 +44,12 @@ OLD (FINISHED) PROJECTS:
     - 🤖 Machine Learning Specialization: python / jupyter (Andrew Ng at Stanford) ✔️
     - ⭐astronomy at Caltech TODO: complete Caltech AY1 Coursera class
     - 🪐Planetary science taught by Mike Brown, ✔️ highly recommended
-    - 🧠 Neuromatch academy:
+    - 🧠 Neuromatch academy: (github link: https://github.com/ernest-s/Neuromatch-ScholarlyBears#neuromatch-scholarlybears)
       - computational neuroscience class - summer of 2021 python / google colab ✔️
 
 FUTURE INTERESTS:
 - 🌱 Own personal project @home in Finland, a python code solution for the online Caltech MOOC for Caltech CS 156 (https://work.caltech.edu/telecourse.html) taught by professor يسر ابو مستفة (Yaser Abu-Mustafa). I got my BS in E&AS from Caltech in 1993/94, but this online class was created much later in 2012. I have a python implementations of perceptron learning algorithm homework assignments from CS156.  One of my first github repositories.
+  - Can be viewed at: https://github.com/jenkki-mies/Perceptron#perceptron
 - 🛠️ Algorithms Toolbox taught by JetBrains on Coursera (partially finished - I did all the free exercises but would like to do the entire course if I had more money).  It's based on PyCharm python.
 - 🖖 I’m looking for an internship in connection with the full stack web development class (it's part of the class).
 - 💞️ I’m looking to collaborate on Machine Learning research and applications.
