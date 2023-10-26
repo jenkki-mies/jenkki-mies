@@ -39,15 +39,14 @@ CURRENT PROJECTS:
   -  jira / Agile / Scrum
   
 OLD (FINISHED) PROJECTS:
-  - MOOCS / Coursera / etc classes:
-  -   🐍 I have lots of finished python code from various projects over the years which are stored on github
-  -   🛠️https://github.com/jenkki-mies/jenkki-mies
-    - 🤖 Machine Learning Introduction: Octave/MATLAB (Andrew Ng at Stanford) ✔️
-    - 🤖 Machine Learning Specialization: python / jupyter (Andrew Ng at Stanford) ✔️
-    - ⭐astronomy at Caltech TODO: complete Caltech AY1 Coursera class
-    - 🪐Planetary science taught by Mike Brown, ✔️ highly recommended
-    - 🧠 Neuromatch academy: (github link: https://github.com/ernest-s/Neuromatch-ScholarlyBears#neuromatch-scholarlybears)
-      - computational neuroscience class - summer of 2021 python / google colab ✔️
+  -   🐍 I have lots of finished python code from various projects over the years which are stored on github @ ️https://github.com/jenkki-mies/jenkki-mies
+  - 🏛️ MOOCS / Coursera / etc classes:
+  -     🤖 Machine Learning Introduction: Octave/MATLAB (Andrew Ng at Stanford) ✔️ Coursera certificate on my linkedIn page
+  -     🤖 Machine Learning Specialization: python / jupyter (Andrew Ng at Stanford) ✔️ Coursera certificates on my linkedIn page
+  -     ⭐astronomy at Caltech TODO: complete Caltech AY1 Coursera class
+  -     🪐(Caltech AYxx) Solar System taught by Mike Brown, ✔️ (finished the class but haven't yet felt the need to pay for the Coursera certificate)
+    - 🧠 Neuromatch academy: (github link: https://github.com/ernest-s/Neuromatch-ScholarlyBears#neuromatch-scholarlybears) 
+      - computational neuroscience class - summer of 2021 python / google colab ✔️ Neuromatch certificate on my linkedIn page
 
 FUTURE INTERESTS:
 - 🌱 Own personal project @home in Finland, a python code solution for the online Caltech MOOC for Caltech CS 156 (https://work.caltech.edu/telecourse.html) taught by professor يسر ابو مستفة (Yaser Abu-Mustafa). I got my BS in E&AS from Caltech in 1993/94, but this online class was created much later in 2012. I have a python implementations of perceptron learning algorithm homework assignments from CS156.  One of my first github repositories.
