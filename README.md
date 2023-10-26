@@ -19,7 +19,7 @@ GENERAL:
       -   Nokia Networks 1995-2005
     - field applications engineer at:
       -   Agere/LSI (now part of intel) 2005 - 2012
-      -   Cavium 2013
+      -   Cavium 2013 - 14
 
 CURRENT PROJECTS:
 - At the moment, I'm taking "full stack web development" at Omnia in Espoo, Finland - taught by my old Nokia colleague, Petteri Lappalainen, and using Aalto FITech101: https://fitech101.aalto.fi/web-software-development/ as course material. Omnia Course Tools / Languagues list:
