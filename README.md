@@ -38,24 +38,27 @@ CURRENT PROJECTS:
   -  Oak software framework for deno apps
   -  jira / Agile / Scrum
   
-OLD (FINISHED) PROJECTS:
-  -   🐍 I have lots of finished python code from various projects over the years which are stored on github @ ️https://github.com/jenkki-mies/jenkki-mies
-  - 🏛️ MOOCS / Coursera / etc classes:
-  -     🤖 Machine Learning Introduction: Octave/MATLAB (Andrew Ng at Stanford) ✔️ Coursera certificate on my linkedIn page
-  -     🤖 Machine Learning Specialization: python / jupyter (Andrew Ng at Stanford) ✔️ Coursera certificates on my linkedIn page
-  -     ⭐astronomy at Caltech TODO: complete Caltech AY1 Coursera class
-  -     🪐(Caltech AYxx) Solar System taught by Mike Brown, ✔️ (finished the class but haven't yet felt the need to pay for the Coursera certificate)
+OLD (FINISHED and UNFINISHED) PROJECTS:
+🐍 I have lots of finished python code from various projects over the years stored on my github @ ️https://github.com/jenkki-mies/jenkki-mies
+  - 🏛️ MOOCS / Coursera / etc classes - class certifications are @ linkedin.com/in/jon-mcgill-14a8264
+    - 🤖 Machine Learning Introduction: Octave/MATLAB (Andrew Ng at Stanford) ✔️ Coursera cert is on linkedIn
+    - 🤖 Machine Learning Specialization: python / jupyter (Andrew Ng at Stanford) ✔️ Coursera cert is on linkedIn
+    - ⭐astronomy at Caltech TODO: complete Caltech AY1 Coursera class
+    - 🪐(Caltech AYxx) Solar System taught by Mike Brown, ✔️ (finished the class but haven't yet felt the need to pay for the Coursera certificate)
     - 🧠 Neuromatch academy: (github link: https://github.com/ernest-s/Neuromatch-ScholarlyBears#neuromatch-scholarlybears) 
       - computational neuroscience class - summer of 2021 python / google colab ✔️ Neuromatch certificate on my linkedIn page
 
 FUTURE INTERESTS:
 - 🌱 Own personal project @home in Finland, a python code solution for the online Caltech MOOC for Caltech CS 156 (https://work.caltech.edu/telecourse.html) taught by professor يسر ابو مستفة (Yaser Abu-Mustafa). I got my BS in E&AS from Caltech in 1993/94, but this online class was created much later in 2012. I have a python implementations of perceptron learning algorithm homework assignments from CS156.  One of my first github repositories.
   - Can be viewed at: https://github.com/jenkki-mies/Perceptron#perceptron
-- 🛠️ Algorithms Toolbox taught by JetBrains on Coursera (partially finished - I did all the free exercises but would like to do the entire course if I had more money).  It's based on PyCharm python.
+- 🛠️ Algorithms Toolbox taught by JetBrains on Coursera (partially finished - I did all the free exercises but would like to do the entire course if I had more money).  It's based on PyCharm python. Code available here: @ ️https://github.com/jenkki-mies/jenkki-mies
 - 🖖 I’m looking for an internship in connection with the full stack web development class (it's part of the class).
 - 💞️ I’m looking to collaborate on Machine Learning research and applications.
 - 🧠 Would like to work as a volunteer TA in the summer of 2024 (or later) for neuromatch teaching python / machine learning /mathematics /CNS
-- 📫 How to reach me:  LinkedIn -- linkedin.com/in/jon-mcgill-14a8264
+- 📫 How to reach me:
+  - LinkedIn -- linkedin.com/in/jon-mcgill-14a8264
+  - Gmail: jon.mcgill.2@gmail.com
+  - WhatsApp/Signal/Telegram: +358-46-9606497
 
 <!---
 jenkki-mies/jenkki-mies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
