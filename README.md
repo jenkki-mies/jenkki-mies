@@ -28,7 +28,7 @@ CURRENT PROJECTS:
   -  git and github if you're reading this README.md, then you see my github account is @jenkki-mies
   -  Powershell, WSL (windows linux) Ubuntu 20
   -  Docker containers
-  -  Render web server: you can check out one of my finished projects at: https://wsd-course-project-i-7so6.onrender.com/
+  -  Render web server: you can check out one of my finished deno / postgres based projects at: https://wsd-course-project-i-7so6.onrender.com/
   -  html /css / chrome debugger
   -  ETA view templates for web pages
   -  javascript
@@ -37,6 +37,7 @@ CURRENT PROJECTS:
   -  playwright automated testing
   -  Oak software framework for deno apps
   -  jira / Agile / Scrum
+  -  graphql / node.js / mongo db:  you can check out my ongoing implementation of a simple node.js app for using graphql here: https://github.com/jenkki-mies/graphql-node/blob/main/README.md
   
 OLD (FINISHED and UNFINISHED) PROJECTS:
 🐍 I have lots of finished python code from various projects over the years stored on my github @ ️https://github.com/jenkki-mies/jenkki-mies
