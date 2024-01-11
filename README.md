@@ -44,6 +44,9 @@ OLD (FINISHED and UNFINISHED) PROJECTS:
   - 🏛️ MOOCS / Coursera / etc classes - class certifications are @ linkedin.com/in/jon-mcgill-14a8264
     - 🤖 Machine Learning Introduction: Octave/MATLAB (Andrew Ng at Stanford) ✔️ Coursera cert is on linkedIn
     - 🤖 Machine Learning Specialization: python / jupyter (Andrew Ng at Stanford) ✔️ Coursera cert is on linkedIn
+      - Style transfer learning example1: https://github.com/jenkki-mies/jenkki-mies/blob/main/WhatsApp%20Image%202024-01-05%20at%2015.33.57_1572df27.jpg
+      - ex. 2: https://github.com/jenkki-mies/jenkki-mies/blob/main/WhatsApp%20Image%202024-01-05%20at%2015.35.21_91b5d8f4.jpg
+      - ex. 3: https://github.com/jenkki-mies/jenkki-mies/blob/main/WhatsApp%20Image%202024-01-05%20at%2015.36.33_af80a5c4.jpg
     - 🪐(Caltech AYxx) Solar System taught by Mike Brown, ✔️ (finished the class but haven't yet felt the need to pay for the Coursera certificate)
     - 🧠 Neuromatch academy: ✔️ Neuromatch certificate on my linkedIn page
       - 🏫computational neuroscience class - summer of 2021 python / google colab 
